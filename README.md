@@ -2,7 +2,7 @@
 
 ## Introduction
  - This is the 2nd mini project in TOP foundation course.
- - It is about building a basic "Landing Page".
+ - It is about building a basic "Landing Page" from scratch without any kind of help.
  - CSS : flexbox properties:-
             1. justify-content & align-items
             2. flex: flex-grow, flex-shrink, flex-basis
@@ -12,4 +12,6 @@
 
 ## Self-reflection
  - Dificulty faced: after completing the project ..
-
+ -    1. alginment of h1 and p from the same line.
+      2. flex-wrap not applied
+      3. alignment , aligment and alignment ...
